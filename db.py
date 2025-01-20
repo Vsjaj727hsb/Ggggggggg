@@ -5,8 +5,8 @@ default_admins = [
     (2, '1549748318', 1)
     (3, '1662672529', 1)
 ]
-token = '7594521276:AAEyNanseIFUpZZvjl3qttq9JPJmMeaieR4'
-bot_name = '@DDOSHUMEIN_BOT'
+token = '7236251092:AAFkpugaAsRs20d6jRF8ILiphJaAkFyQJi8'
+bot_name = '@GODxAloneBOY'
 bot_username = '@@DDOSHUMEIN_BOT'
 owner_username = '@@DDOSHUMEIN_BOT'
 channel_username = '@@DDOSHUMEIN_BOT'
