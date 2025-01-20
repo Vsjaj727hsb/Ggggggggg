@@ -2,8 +2,8 @@ import sqlite3
 
 default_admins = [
     (1, '5712572640', 1),
-    (2, '1549748318', 1)
-    (3, '1662672529', 1)
+    (2, '1549748318', 1),
+    (3, '1662672529', 1),
 ]
 token = '7236251092:AAFkpugaAsRs20d6jRF8ILiphJaAkFyQJi8'
 bot_name = '@GODxAloneBOY'
